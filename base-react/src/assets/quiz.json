@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary cause of climate change?",
+    "options": [
+      { "text": "Deforestation", "is_correct": 0 },
+      { "text": "Burning fossil fuels", "is_correct": 1 },
+      { "text": "Natural weather changes", "is_correct": 0 },
+      { "text": "Solar eclipses", "is_correct": 0 }
+    ],
+    "reason": "Burning fossil fuels releases large amounts of carbon dioxide, which traps heat in the atmosphere."
+  },
+  {
+    "id": 2,
+    "question": "Which gas is the most significant contributor to global warming?",
+    "options": [
+      { "text": "Oxygen (O2)", "is_correct": 0 },
+      { "text": "Carbon dioxide (CO2)", "is_correct": 1 },
+      { "text": "Nitrogen (N2)", "is_correct": 0 },
+      { "text": "Hydrogen (H2)", "is_correct": 0 }
+    ],
+    "reason": "Carbon dioxide is the primary greenhouse gas emitted through human activities like burning fossil fuels."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is a renewable energy source?",
+    "options": [
+      { "text": "Coal", "is_correct": 0 },
+      { "text": "Natural gas", "is_correct": 0 },
+      { "text": "Oil", "is_correct": 0 },
+      { "text": "Solar energy", "is_correct": 1 }
+    ],
+    "reason": "Solar energy is renewable and sustainable as it relies on sunlight, an unlimited resource."
+  },
+  {
+    "id": 4,
+    "question": "What effect does melting polar ice have on sea levels?",
+    "options": [
+      { "text": "It lowers sea levels", "is_correct": 0 },
+      { "text": "It raises sea levels", "is_correct": 1 },
+      { "text": "It creates new islands", "is_correct": 0 },
+      { "text": "It has no effect", "is_correct": 0 }
+    ],
+    "reason": "Melting ice sheets and glaciers increase the volume of water in the oceans, leading to rising sea levels."
+  },
+  {
+    "id": 5,
+    "question": "Which human activity is a major source of greenhouse gas emissions?",
+    "options": [
+      { "text": "Cycling", "is_correct": 0 },
+      { "text": "Recycling", "is_correct": 0 },
+      { "text": "Planting trees", "is_correct": 0 },
+      { "text": "Burning fossil fuels", "is_correct": 1 }
+    ],
+    "reason": "Burning fossil fuels releases greenhouse gases like CO2, contributing significantly to global warming."
+  },
+  {
+    "id": 6,
+    "question": "What is the purpose of the Paris Agreement?",
+    "options": [
+      { "text": "To promote space exploration", "is_correct": 0 },
+      { "text": "To increase oil production", "is_correct": 0 },
+      { "text": "To ban renewable energy sources", "is_correct": 0 },
+      { "text": "To reduce global greenhouse gas emissions", "is_correct": 1 }
+    ],
+    "reason": "The Paris Agreement focuses on limiting global temperature rise by reducing greenhouse gas emissions worldwide."
+  },
+  {
+    "id": 7,
+    "question": "What is an example of an adaptation to climate change?",
+    "options": [
+      { "text": "Burning more coal", "is_correct": 0 },
+      { "text": "Deforesting rainforests", "is_correct": 0 },
+      { "text": "Using more plastic", "is_correct": 0 },
+      { "text": "Building flood defenses", "is_correct": 1 }
+    ],
+    "reason": "Adaptations like building flood defenses help communities prepare for rising sea levels and extreme weather."
+  },
+  {
+    "id": 8,
+    "question": "What is a greenhouse gas?",
+    "options": [
+      { "text": "A gas that cools the Earth", "is_correct": 0 },
+      { "text": "A gas used for breathing", "is_correct": 0 },
+      { "text": "A gas found only in greenhouses", "is_correct": 0 },
+      { "text": "A gas that traps heat in the atmosphere", "is_correct": 1 }
+    ],
+    "reason": "Greenhouse gases trap heat in the atmosphere, leading to global warming."
+  },
+  {
+    "id": 9,
+    "question": "What can individuals do to reduce their carbon footprint?",
+    "options": [
+      { "text": "Burn more fossil fuels", "is_correct": 0 },
+      { "text": "Waste more food", "is_correct": 0 },
+      { "text": "Leave lights on", "is_correct": 0 },
+      { "text": "Use public transportation", "is_correct": 1 }
+    ],
+    "reason": "Using public transportation reduces emissions from individual vehicles, helping lower carbon footprints."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a potential effect of climate change?",
+    "options": [
+      { "text": "Decreased sea temperatures", "is_correct": 0 },
+      { "text": "More extreme weather events", "is_correct": 1 },
+      { "text": "Fewer heatwaves", "is_correct": 0 },
+      { "text": "A stable global climate", "is_correct": 0 }
+    ],
+    "reason": "Climate change can cause more extreme weather events, including hurricanes, droughts, and floods."
+  }
+]

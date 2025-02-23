@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game</title>
+</head>
+<body>
+    <script>
+        // Get the selected game script from URL
+        const params = new URLSearchParams(window.location.search);
+        const gameScript = params.get("game");
+
+        if (gameScript) {
+            // Dynamically load the selected game
+            const script = document.createElement("script");
+            script.type = "module";
+            script.src = gameScript;
+            document.body.appendChild(script);
+        } else {
+            document.body.innerHTML = "<h1>No game selected!</h1>";
+        }
+    </script>
+</body>
+</html>
